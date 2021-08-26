@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="commom_margin_15">@dimen/_15sdp</dimen>
+    <dimen name="commom_margin_10">@dimen/_10sdp</dimen>
+    <dimen name="commom_margin_5">@dimen/_5sdp</dimen>
+    <dimen name="commom_margin_25">@dimen/_25sdp</dimen>
+    <dimen name="commom_margin_30">@dimen/_30sdp</dimen>
+    <dimen name="commom_margin_20">@dimen/_20sdp</dimen>
+</resources>
